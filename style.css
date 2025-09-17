@@ -120,7 +120,7 @@ font-size: 22px;
 }
 .match-info p {
   margin: 5px 0;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #ddd;
 }
 .match-info strong {
@@ -190,6 +190,7 @@ footer {
   color: #888;
   border-top: 2px solid #0077cc;
 }
+
 
 
 

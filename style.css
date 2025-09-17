@@ -191,6 +191,9 @@ footer {
   border-top: 2px solid #0077cc;
 }
 
+footer p {
+  padding-bottom: 30px;
+}
 
 /* Sticky Ad */
 #sticky-footer-ad {
@@ -293,6 +296,7 @@ footer {
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
+
 
 
 

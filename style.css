@@ -21,6 +21,11 @@ header {
   justify-content: center;
 }
 
+header h1 {
+
+  border-bottom: 1px solid #ddd;
+}
+
 /* Default header */
 .main-header {
   background: #000;
@@ -202,6 +207,7 @@ footer {
   color: #888;
   border-top: 2px solid #0077cc;
 }
+
 
 
 

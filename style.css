@@ -270,7 +270,7 @@ footer p {
   cursor: pointer;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
   transition: 0.3s;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 #close-ad:hover { background: #ff0000; }
@@ -296,6 +296,7 @@ footer p {
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
+
 
 
 
